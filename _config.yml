@@ -1,8 +1,6 @@
 theme: jekyll-theme-cayman
 
-
-markdown: CommonMarkGhPages
-
-
 plugins:
  - jemoji 
+ 
+markdown: CommonMarkGhPages
