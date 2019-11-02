@@ -1,10 +1,10 @@
-# JCP R Resources - [Beta Version]
+# JCP R Resources
 Resources to learn more about `R`. This would supplement <ins>**R Foundation**</ins> and <ins>**R Intermediate**</ins> session conducted at JCPI
 
 ## R Foundation Resources :bulb:
 ****
 
-### [R Foundations Syllabus](https://github.com/vkoul/jcpR/blob/master/Resources/R_Foundations_Syllabus.pdf)
+### [R Foundations Quiz](http://rpubs.com/cbatra/500620)
 
 ### Courses :computer:
 
