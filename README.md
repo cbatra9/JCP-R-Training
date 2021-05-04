@@ -1,5 +1,5 @@
-# JCP R Resources
-Resources to learn more about `R`. This would supplement <ins>**R Foundation**</ins> and <ins>**R Intermediate**</ins> sessions conducted at JCPI
+# R Resources
+Resources to learn more about `R`. 
 
 ## R Foundation Resources :bulb:
 ****
