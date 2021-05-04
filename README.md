@@ -1,5 +1,5 @@
 # R Resources
-Resources to learn more about `R`. 
+Resources to learn `R`. 
 
 ## R Foundation Resources :bulb:
 ****
